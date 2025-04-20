@@ -79,8 +79,8 @@ Clone the repo:
 
 bash
 Copy
-git clone https://github.com/yourusername/shopping-app.git
-Open in Android Studio and sync Gradle.
+git clone https://github.com/Snehil@208001/shopping-app.git
+Open in Android Studio and sync Gradle. 
 
 Run on emulator/device (min API 24).
 

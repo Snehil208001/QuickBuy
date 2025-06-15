@@ -83,6 +83,6 @@ Build and Run: ▶️
 Sync the Gradle files.
 Build and run the app on an Android emulator or a physical device.
 🔗 Demo & APK
-🎥 Screen Recording Demo 📽️ Watch on Google Drive
+🎥 Screen Recording Demo 📽️ Watch on Google Drive(https://drive.google.com/drive/folders/1Ty3Itj-l4Oq_MXkY-Cunl6g25dRC__0O?usp=drive_link)
 
-📦 Download APK 📲 Install & Try
+📦 Download APK 📲 Install & Try(https://drive.google.com/drive/folders/1pnFHzdeLjakQbGRcXs7ieozSge68QiZD?usp=drive_link)
